@@ -1,0 +1,1 @@
+PHP Warning:  Undefined array key "HTTP_HOST" in C:\xampp\htdocs\SiraFinder1\config\config.php on line 11
